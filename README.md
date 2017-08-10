@@ -2,18 +2,17 @@
 
 You should have received an email invitation from one of our staff members inviting you to join Byte Academy's Slack Community for registered students. Once you've set up an account, you can download the mobile app or desktop app. If you prefer to stay in-browser, you can find the slack link [here](byteacademy.slack.com).
 
-[GitHub](https://github.com/join) 
+The website you're currently on is called GitHub. As part of this course and any technology oriented position, you'll likely use GitHub for version control, meaning keeping track of the changes you make as you're writing software. To get ready for the course, please make an account [here](https://github.com/join). 
 
-[ByteDev](http://bytedev.co/)
-
+Now that you have a GitHub account, you can easily register for our online, interactive website, [ByteDev](http://bytedev.co/). Through ByteDev, you'll be able to access our free courses, as well as the ones you have registered for. 
 
 ## Operating System
 
 [Linux]()
 
-[Vim]() 
+If you'll be working on a Mac computer, Vim is actually installed on your computer, so you can go ahead and skip this installation. For everyone else, please install vim [here](). 
 
-[Git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git)
+Remember GitHub earlier? To use it on your actual computer, you'll need to install [Git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git). 
 
 
 ## Python & Pip 
