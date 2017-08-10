@@ -11,6 +11,8 @@ You should have received an email invitation from one of our staff members invit
 
 [Linux]()
 
+[Vim]() 
+
 [Git](https://git-scm.com/book/en/v1/Getting-Started-Installing-Git)
 
 
